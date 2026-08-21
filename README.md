@@ -1,5 +1,7 @@
 # noder-docker
 
+*נודר דוקר* (Hebrew slang): this project will Docker you — noder it, the second you touch it.
+
 **noder-docker** is a highly customizable Docker framework for spinning up Node.js environments quickly and consistently.
 
 ## Overview
